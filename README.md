@@ -8,7 +8,7 @@ Grid search and randomized search methodologies are traditionally used to tune m
 
 Using Zalando’s Fashion MNIST dataset, which comprises of 60,000 clothing images, I present the use of Bayesian Optimization to tune the hyperparameters of a convolutional neural network in Keras.
 
-#### One dimensional toy Bayesian Optimization example
+#### One dimensional Bayesian Optimization example
 https://nbviewer.jupyter.org/github/niallturb/pylondinium18/blob/master/basic_bayes_opt_demo.ipynb
 
 #### Full Fashion MNIST demo - tuning hyperparamters of CNN in Keras
