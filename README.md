@@ -1,5 +1,7 @@
 # pylondinium18
 
+## Slides and iPython notebooks from PyLondinium 2018 talk
+
 ### Tuning the knobs of neural networks using Bayesian Optimization
 
 #### Description
@@ -12,5 +14,5 @@ Using Zalando’s Fashion MNIST dataset, which comprises of 60,000 clothing imag
 #### One dimensional Bayesian Optimization example
 https://nbviewer.jupyter.org/github/niallturb/pylondinium18/blob/master/basic_bayes_opt_demo.ipynb
 
-#### Full Fashion MNIST demo - tuning hyperparamters of CNN in Keras
+#### Full Fashion MNIST demo - tuning hyperparamters of a CNN in Keras
 https://nbviewer.jupyter.org/github/niallturb/pylondinium18/blob/master/fashion_mnist_bayes_opt.ipynb
